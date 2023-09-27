@@ -5,7 +5,7 @@ function getResult(param) {
   getResult ("kiskutya") 
   
   function productOfThreeNumbers(number1, number2, number3) {
-    let sum = number1 * number2 * number3
-    return sum 
+    let product = number1 * number2 * number3
+    return product 
   }
-  getResult(productOfThreeNumbers(4, 8, 5))
+  getResult(productOfThreeNumbers(136, 278, 95))
