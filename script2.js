@@ -1,12 +1,11 @@
-function házi(param) {
+function getResult(param) {
     console.log(param)
   }
   
-  házi ("pálinka") 
+  getResult ("gizsgutya") 
   
   function productOfThreeNumbers(number1, number2, number3) {
     let sum = number1 * number2 * number3
     return sum 
   }
-  
-házi(productOfThreeNumbers(4, 8, 5))
+  getResult(productOfThreeNumbers(4, 8, 5))
