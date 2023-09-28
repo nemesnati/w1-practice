@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(87, 195, 157);
+}
+body {
+    font-size: 25px;
+}
+ h1 {
+    color: rgb(141, 10, 130);
+ }
+ 
+ h2 {
+    color: chocolate;
+    font-size: 20px;
+ }
+
+ p.color-pink {
+    color: hotpink;
+ }
+
+ p.color-black{
+    color: black;
+ }
